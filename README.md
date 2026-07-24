@@ -19,3 +19,5 @@ The empirical evaluation was conducted using the fine-tuned **DistilBERT** archi
 * Python
 * Hugging Face Transformers
 * Pandas, Matplotlib / Google Sheets
+
+*Original Google Doc Report & Full Spreadshit:* [https://docs.google.com/spreadsheets/d/14IR5UQr8JqlcMm5CTGloOhLyCX2iMcM7/edit?usp=drivesdk&ouid=108445358113271259101&rtpof=true&sd=true]
